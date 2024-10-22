@@ -1,4 +1,4 @@
 # my-first
-my first repo
-This is ,y first repositary.
-Auther -- Aarzoo dadhore
+my first repo <br>
+This is first repositary.<br>
+Auther -- Aarzoo dadhore<br>
